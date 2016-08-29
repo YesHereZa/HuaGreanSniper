@@ -53,12 +53,12 @@
       "Value": "{0} integrated HuaGreanBot v{1} or upper"
     },
     {
-      "Key": "anyHuaGreanBotNotFound",
+      "Key": "anyNecroBotNotFound",
       "Value": "Any running HuaGreanBot not found..."
     },
     {
       "Key": "runBeforeHSniper",
-      "Value": "HuaGreanbot must be running before HSniper"
+      "Value": "HuaGreanBot must be running before HSniper"
     },
     {
       "Key": "protocolRegistered",
@@ -101,7 +101,7 @@
       "Value": "Incompatible HuaGreanBot version for {0}"
     },
     {
-      "Key": "sendingPokemonToHuaGreanBot",
+      "Key": "sendingPokemonToNecroBot",
       "Value": "Sending to {3}: {0} {1},{2}"
     },
     {
